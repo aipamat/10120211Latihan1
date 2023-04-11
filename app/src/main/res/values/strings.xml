@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DigiTeam</string>
+    <string name="digiteam">DigiTeam</string>
+    <string name="digital_together_everyone_achieve_more">Digital Together Everyone Achieve More</string>
+    <string name="jabar_digital_service">Jabar Digital Service</string>
+    <string name="jam_kerja_kamu_bulan_ini_130_53_jam">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="jam_kerja_bulan_ini">Jam Kerja Bulan Ini</string>
+    <string name="_130_53_jam">130.53 JAM</string>
+    <string name="batas_minimum_jam_kerja_170_jam_bulan">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="checkin">Checkin</string>
+    <string name="laporan_kamu">Laporan Kamu</string>
+    <string name="maret">Maret</string>
+    <string name="april">April</string>
+    <string name="buat_laporan">Buat Laporan</string>
+    <string name="izin">Izin</string>
+    <string name="kehadiran">Kehadiran</string>
+    <string name="laporan">Laporan</string>
+    <string name="agenda">Agenda</string>
+    <string name="booking">Booking</string>
+    <string name="wiki">Wiki</string>
+</resources>
