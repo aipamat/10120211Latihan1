@@ -270,217 +270,247 @@
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_1" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_1" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_2" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_2" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_2" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_2" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_2" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_2" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_2" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_2" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_2" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_2" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_3" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_3" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_1" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_1" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_1" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_1" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_2" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_2" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_2" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_2" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_2" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_2" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_4" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_4" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_2" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_2" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_4" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_4" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_2" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_2" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_3" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_3" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_4" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_4" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_5" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_5" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_6" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_6" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_7" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_7" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_7" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_7" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_7" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_7" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_6" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_6" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_6" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_6" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_2" />
+                            android:background="@drawable/rounded"
+                            android:backgroundTint="@color/bg_color_2" />
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_6" />
+                            android:backgroundTint="@color/bg_color_6"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_6" />
+                            android:backgroundTint="@color/bg_color_6"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_6" />
+                            android:backgroundTint="@color/bg_color_6"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_7" />
+                            android:backgroundTint="@color/bg_color_7"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_7" />
+                            android:backgroundTint="@color/bg_color_7" />
                     </GridLayout>
 
                     <GridLayout
@@ -497,210 +527,240 @@
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_6" />
+                            android:backgroundTint="@color/bg_color_6"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_8" />
+                            android:backgroundTint="@color/bg_color_8"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_8" />
+                            android:backgroundTint="@color/bg_color_8"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_1" />
+                            android:backgroundTint="@color/bg_color_1"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_1" />
+                            android:backgroundTint="@color/bg_color_1"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_6" />
+                            android:backgroundTint="@color/bg_color_6"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_1" />
+                            android:backgroundTint="@color/bg_color_1"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_8" />
+                            android:backgroundTint="@color/bg_color_8"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_1" />
+                            android:backgroundTint="@color/bg_color_1"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_6" />
+                            android:backgroundTint="@color/bg_color_6"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_5" />
+                            android:backgroundTint="@color/bg_color_5"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_8" />
+                            android:backgroundTint="@color/bg_color_8"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_6" />
+                            android:backgroundTint="@color/bg_color_6"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_1" />
+                            android:backgroundTint="@color/bg_color_1"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_1" />
+                            android:backgroundTint="@color/bg_color_1"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_6" />
+                            android:backgroundTint="@color/bg_color_6"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_1" />
+                            android:backgroundTint="@color/bg_color_1"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_1" />
+                            android:backgroundTint="@color/bg_color_1"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_1" />
+                            android:backgroundTint="@color/bg_color_1"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_6" />
+                            android:backgroundTint="@color/bg_color_6"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_8" />
+                            android:backgroundTint="@color/bg_color_8"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_9" />
+                            android:backgroundTint="@color/bg_color_9"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_9" />
+                            android:backgroundTint="@color/bg_color_9"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_9" />
+                            android:backgroundTint="@color/bg_color_9"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_9" />
+                            android:backgroundTint="@color/bg_color_9"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_9" />
+                            android:backgroundTint="@color/bg_color_9"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_9" />
+                            android:backgroundTint="@color/bg_color_9"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_9" />
+                            android:backgroundTint="@color/bg_color_9"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_9" />
+                            android:backgroundTint="@color/bg_color_9"
+                            android:background="@drawable/rounded"/>
 
                         <ImageView
                             android:layout_width="28dp"
                             android:layout_height="28dp"
                             android:layout_marginRight="2dp"
                             android:layout_marginBottom="2dp"
-                            android:background="@color/bg_color_9" />
+                            android:backgroundTint="@color/bg_color_9"
+                            android:background="@drawable/rounded"/>
                     </GridLayout>
                 </LinearLayout>
 
